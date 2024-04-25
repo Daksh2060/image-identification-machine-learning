@@ -20,7 +20,7 @@ This is a project template from UC Berkeley, for a machine learning program that
 
 ## Installation and Use
 
-Follow these steps to set up and run the Address Tracker locally:
+Follow these steps to set up and run the Image Identifier:
 
 1. Download or clone the repository to your local machine:
 
