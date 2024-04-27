@@ -30,6 +30,7 @@ Follow these steps to set up and run the Image Identifier:
  
 2. Open the folder in PyCharm.
 
+
 3. Run the given configurations to test out the different classifiers.
   
 ## Contact
