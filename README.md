@@ -4,18 +4,18 @@ This is a project template from UC Berkeley, for a machine learning program that
 
 ## Classifiers
 
-- **Naïve Bayes:** To be filled
+- **Naïve Bayes:** Naïve Bayes is a simple probabilistic classifier that applies Bayes' theorem with independent assumptions between the features. 
 
-- **Perceptron:** To be filled
+- **Perceptron:** A linear classifier that learns a linear decision boundary by iteratively updating the weights based on misclassified samples until convergence or a predefined number of iterations. 
 
-- **MIRA:** To be filled
-
+- **MIRA:** MIRA is a variant of the perceptron algorithm designed to address the issue of excessive updates in traditional perceptron training, preventing overfitting to noisy training data. 
 
 ## How does it work?
 
+The images are extracted and stored in R files, then converted into array data. The classifiers examine which indices of the given arrays are filled or empty to decide which labels to apply. 
 
 <p align="center">
-  <img src="" />
+ <img src="images/image1.png" />
 </p>
 
 ## Installation and Use
@@ -24,10 +24,14 @@ Follow these steps to set up and run the Address Tracker locally:
 
 1. Download or clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Daksh2060/image-identification-machine-learning
-   ```
-   
+  ```bash
+  git clone https://github.com/Daksh2060/image-identification-machine-learning
+  ```
+ 
+2. Open the folder in PyCharm.
+
+3. Run the given configurations to test out the different classifiers.
+  
 ## Contact
 
 Feel free to reach out if you have any questions, suggestions, or feedback:
