@@ -20,7 +20,7 @@ The images are extracted and stored in R files, then converted into array data. 
 
 ## Installation and Use
 
-Follow these steps to set up and run the Address Tracker locally:
+Follow these steps to set up and run the Image Identifier:
 
 1. Download or clone the repository to your local machine:
 
