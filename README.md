@@ -27,7 +27,8 @@ Follow these steps to set up and run the Image Identifier:
   ```bash
   git clone https://github.com/Daksh2060/image-identification-machine-learning
   ```
- 
+
+ 
 2. Open the folder in PyCharm.
 
 
