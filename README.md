@@ -18,6 +18,10 @@ The images are extracted and stored in R files, then converted into array data. 
  <img src="images/image1.png" />
 </p>
 
+## Requirements
+
+- Python 3.x (Reccomended to use Python Version 3.9 or 3.10)
+
 ## Installation and Use
 
 Follow these steps to set up and run the Image Identifier:
