@@ -12,7 +12,7 @@ This is a project template from UC Berkeley, for a machine learning program that
 
 ## How does it work?
 
-The images are extracted and stored in R files, then converted into array data. The classifiers examine which indices of the given arrays are filled or empty to decide which labels to apply. 
+The images are extracted and stored in R files, then converted into array data. The classifiers examine which indices of the given arrays are filled or empty to decide which labels to apply. Each classifier works iteratively by labeling the images and then comparing them to the results in the training set to adjust the weights of each classification label. The arrays are not shuffled to result in consistent results. However, it should be noted that shuffling the training set every iteration can yield either higher or lower results than the default ordering.
 
 <p align="center">
  <img src="images/image1.png" />
@@ -21,6 +21,8 @@ The images are extracted and stored in R files, then converted into array data. 
 ## Requirements
 
 - Python 3.x (Reccomended to use Python Version 3.9 or 3.10)
+
+- PyCharm (Community Edition)
 
 ## Installation and Use
 
@@ -32,7 +34,6 @@ Follow these steps to set up and run the Image Identifier:
   git clone https://github.com/Daksh2060/image-identification-machine-learning
   ```
 
- 
 2. Open the folder in PyCharm.
 
 
