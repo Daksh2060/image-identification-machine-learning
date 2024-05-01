@@ -38,6 +38,10 @@ Follow these steps to set up and run the Image Identifier:
 
 
 3. Run the given configurations to test out the different classifiers.
+
+  <p align="center">
+   <img src="images/image2.png" />
+  </p>
   
 ## Contact
 
