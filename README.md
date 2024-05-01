@@ -42,7 +42,8 @@ Follow these steps to set up and run the Image Identifier:
   <p align="center">
    <img src="images/image2.png" />
   </p>
-  
+
+  
 ## Contact
 
 Feel free to reach out if you have any questions, suggestions, or feedback:
